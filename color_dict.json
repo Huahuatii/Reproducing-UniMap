@@ -1,0 +1,366 @@
+{
+    "pbmc9_batch": {"NL1": "#8e4d97",
+    "Emp2": "#8fb8d9",
+    "Emp3": "#9bd6cb",
+    "NL2": "#BAD65D",
+    "NL3": "#EE7D6B",
+    "Emp1": "#e7c7e0"},
+
+    "pbmc9_ct": {
+        "reference": "#E0E0E0",
+        "T cell": "#9993ca",
+        "monocyte": "#d99408",
+        "natural killer cell": "#32a52c",
+        "mast cell": "#3fa9e3",
+        "B cell": "#f46b6d",
+        "plasma cell": "#d44b45",
+        "macrophage": "#b4aa36",
+        "dendritic cell": "#22577c",
+        "alveolar macrophage": "#d86faa"
+         },
+
+    "pbmc9_ct_sup": {
+        "reference (non-dendritic)": "#E0E0E0",
+        "reference (dendritic)": "BLACK",
+        "T cell": "#9993ca",
+        "monocyte": "#d99408",
+        "natural killer cell": "#32a52c",
+        "mast cell": "#3fa9e3",
+        "B cell": "#f46b6d",
+        "plasma cell": "#d44b45",
+        "macrophage": "#b4aa36",
+        "dendritic cell": "#22577c",
+        "alveolar macrophage": "#d86faa"
+    },
+
+    "pbmc40_ct_query": {
+        "reference": "#E0E0E0",
+        "CD4-positive, alpha-beta T cell": "#6baed6",
+        "CD8-positive, alpha-beta T cell": "#fd8d3c",
+        "monocyte": "#74c476",
+        "B cell": "#9e9ac8",
+        "natural killer cell": "#969696",
+        "dendritic cell": "#5254a3",
+        "alpha-beta T cell": "#8ca252",
+        "plasmacytoid dendritic cell": "#bd9e39",
+        "platelet": "#ad494a",
+        "plasmablast": "#a55194"
+    },
+
+    "pbmc40_ct_ref": {
+        "reference": "#E0E0E0",
+
+        "naive B cell": "#9e9ac8",
+        "immature B cell": "#b5cf6b",
+        "class switched memory B cell": "#c6dbef",
+        "unswitched memory B cell": "#9c9ede",
+
+        "central memory CD4-positive, alpha-beta T cell": "#8ca252",
+        "naive thymus-derived CD4-positive, alpha-beta T cell": "#5254a3",
+        "mucosal invariant T cell": "#6baed6",
+        "naive thymus-derived CD8-positive, alpha-beta T cell": "#a55194",
+        "T-helper 22 cell": "#e7969c",
+        "CD34-positive, CD38-negative hematopoietic stem cell": "#e7cb94",
+        
+        "effector CD8-positive, alpha-beta T cell": "#fd8d3c",
+        "gamma-delta T cell": "#6b6ecf",
+        "effector memory CD8-positive, alpha-beta T cell": "#fdae6b",
+        "CD4-positive, alpha-beta T cell": "#c7e9c0",
+        "CD8-positive, alpha-beta T cell": "#fdd0a2",
+        "natural killer cell": "#bdbdbd",
+        
+        "plasmablast": "#d9d9d9",
+        "IgA plasma cell": "#cedb9c",
+        "IgM plasma cell": "#de9ed6",
+        "IgG plasma cell": "#ce6dbd",
+        
+        "dendritic cell, human": "#e7ba52",
+        "myeloid dendritic cell": "#ad494a",
+        
+        "monocyte": "#d6616b",
+        "CD14-low, CD16-positive monocyte": "#ffa500",
+        "CD14-positive monocyte": "#74c476",
+        "mature NK T cell": "#bcbddc",
+        
+        "CD16-positive, CD56-dim natural killer cell, human": "#969696",
+        "CD16-negative, CD56-bright natural killer cell, human": "#bd9e39",
+        "plasmacytoid dendritic cell": "#9ecae1",
+        "platelet": "#dadaeb"
+    },
+
+    "pbmc40_ct_ref_order": [
+        "naive B cell",
+        "immature B cell",
+        "class switched memory B cell",
+        "unswitched memory B cell",
+        "B cell",
+    
+        "central memory CD4-positive, alpha-beta T cell",
+        "naive thymus-derived CD4-positive, alpha-beta T cell",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "mucosal invariant T cell",
+        "T-helper 22 cell",
+        "CD34-positive, CD38-negative hematopoietic stem cell",
+        "T follicular helper cell",
+        
+        "effector CD8-positive, alpha-beta T cell",
+        "gamma-delta T cell",
+        "effector memory CD8-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "natural killer cell",
+        
+        "plasmablast",
+        "IgA plasma cell",
+        "IgG plasma cell",
+        "IgM plasma cell",
+    
+        "dendritic cell, human",
+        "myeloid dendritic cell",
+        "dendritic cell",
+    
+        "monocyte",
+        "CD14-low, CD16-positive monocyte",
+        "CD14-positive monocyte",
+        "mature NK T cell",
+        
+        "CD16-positive, CD56-dim natural killer cell, human",
+        "CD16-negative, CD56-bright natural killer cell, human",
+        "plasmacytoid dendritic cell",
+        "platelet",
+        
+        "erythroid progenitor cell, mammalian"
+    ],
+
+    "pbmc40_ct_query_order": [
+        "B cell",
+        "alpha-beta T cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "plasmablast",
+        "dendritic cell",
+        "monocyte",
+        "natural killer cell",
+        "plasmacytoid dendritic cell",
+        "platelet"
+    ],
+
+    "pbmc40_batch": {
+        "batch3": "#1f77b4",
+        "batch5": "#ff7f0e",
+        "MG22_PL": "#2ca02c",
+        "MG03_PT": "#d62728",
+        "MG21_TL": "#9467bd",
+        "batch2": "#8c564b",
+        "MG03_TL": "#e377c2",
+        "MG03_PB": "#7f7f7f",
+        "batch0": "#bcbd22",
+        "batch4": "#17becf",
+        "MG03_TE": "#aec7e8",
+        "MG23_TE": "#ffbb78",
+        "batch1": "#98df8a",
+        "MG22_TE": "#ff9896",
+        "MG21_TE": "#c5b0d5"
+    },
+
+    "mg_batch":{
+        "MG21_TE": "#1f77b4",
+        "MG21_TL": "#ff7f0e",
+        "MG22_TE": "#2ca02c",
+        "MG22_PL": "#d62728",
+        "MG03_TE": "#9467bd",
+        "MG03_TL": "#8c564b",
+        "MG03_PT": "#e377c2",
+        "MG03_PB": "#7f7f7f",
+        "MG23_TE": "#bcbd22",
+        "batch0": "#17becf",
+        "batch1": "#aec7e8",
+        "batch2": "#ffbb78",
+        "batch3": "#98df8a",
+        "batch4": "#ff9896",
+        "batch5": "#c5b0d5"
+    },
+
+    "mg_ct_ref": {
+        "reference": "#E0E0E0",
+        "Naive B cell": "#393b79",
+        "Unswitched memory B cell": "#5254a3",
+        "Memory B cell (II)": "#6b6ecf",
+        "Memory B cell (I)": "#756bb1",
+        "Pre GC B cell": "#9c9ede",
+        "Thymic memory B cell": "#9e9ac8",
+        "GC B cell": "#bcbddc",
+        "Plasmablast": "#de9ed6",
+
+        "Normal fibroblast": "#e6550d",
+        "cTEC": "#ff7f0e",
+        "mTEC (I)": "#ffbb78",
+        "mTEC (II)": "#8c6d31",
+        "Tumor associated fibroblast": "#ffa500",
+        "Endothelial cell": "#fdd0a2",
+
+        "Monocyte (CD14)": "#e7969c",
+        "Monocyte (CD16)": "#843c39",
+        "cDC1": "#ad494a",
+        "cDC2": "#e6550d",
+        "Macrophage": "#d62728",
+        "pDC": "#ff0000",
+        "nmTEC": "#fdab9f",
+
+        "DP T cell": "#7b4173",
+        "DN T cell": "#ce6dbd",
+        "Cycling DN/DP T cell": "#de9ed6",
+        
+        "aa CD8 T cell (I)": "#e377c2",
+        "Thymic CD4 T cell (I)": "#f7b6d2",
+        "Thymic CD4 T cell (II)": "#fdae6b",
+        
+
+        "ILC": "#4a86e8",
+        "gd T cell": "#1f77b4",
+        "NKT cell (thymus)": "#c6dbef",
+        "aa CD8 T cell (II)": "#72d4e4",
+
+        "NK cell": "#6baed6",
+        "CD8 Temra": "#a2c8ec",
+        "CD4 Temra (Th1)": "#3182bd",
+        "CD4 Tem (Th1)": "#31a354",
+        "CD8 Trm": "#17becf",
+        "CD8 Tem": "#74c476",
+        "Activated Treg": "#389c90",
+        "Naive Treg": "#7cbc5e",
+        "CD4 Tcm (Th17)": "#b6d957",
+        "CD4 Tem (Th1/17)": "#2ca02c",
+        "CD4 Tcm (Th2)": "#a7e3a7",
+        "CD4 Tcm (Tfh)": "#637939",
+        "CD4 Tcm (Th0)": "#cedb9c",
+        "NKT cell (periphery)": "#ffe100",
+        "CD4 Tnaive": "#bcbd22",
+        "CD8 Tnaive": "#bd9e39",
+        "Thymic CD8 T cell": "#fad46b",
+        "T agonist": "#8c6d31"
+
+    },
+
+    "mg_ct_query": {
+        "reference": "#E0E0E0",
+        "Age-associated B cells": "#9e9ac8",
+        "Naive B cells": "#393b79",
+        "Memory B cells": "#756bb1",
+        "Plasma cells": "#de9ed6",
+
+    "Classical monocytes": "#e7969c",  
+    "Non-classical monocytes": "#843c39",
+    "Neutrophils": "#a55194",
+    "Megakaryocytes/platelets": "#fdae6b",
+    "Neutrophil-myeloid progenitor": "#c49c94",
+
+    "CD16+ NK cells": "#6baed6",
+    "Tem/Temra cytotoxic T cells": "#a2c8ec",  
+    "MAIT cells": "#8ca252",
+    "Tem/Trm cytotoxic T cells": "#79c57b",
+    "Tem/Effector helper T cells": "#2ca02c",
+    "Tcm/Naive helper T cells": "#bebf38",
+    "Tcm/Naive cytotoxic T cells": "#bfa242",
+    "Regulatory T cells": "#74c476",
+
+    "DC2": "#8c6d31",
+    
+    "HSC/MPP": "#d380c4",
+
+    "Late erythroid": "#ce6dbd"
+    },
+
+    "mg_ct_order": [
+        "Memory B cells",
+        "Naive B cells",
+        "Age-associated B cells",
+        "Classical monocytes",
+        "Non-classical monocytes",
+        "Regulatory T cells",
+        "Tcm/Naive helper T cells",
+        "Tem/Effector helper T cells",
+        "Tcm/Naive cytotoxic T cells",
+        "MAIT cells",
+        "Tem/Trm cytotoxic T cells",
+        "Tem/Temra cytotoxic T cells",
+        "CD16+ NK cells",
+        "HSC/MPP",
+        "DC2",
+        "Plasma cells",
+        "Late erythroid",
+        "Neutrophils",
+        "Neutrophil-myeloid progenitor",
+        "Megakaryocytes/platelets"
+    ],
+    "mg_pd_ct_order": [
+        "Unswitched memory B cell",
+        "Memory B cell (I)",
+        "Memory B cell (II)",
+        "Naive B cell",
+        "Pre GC B cell",
+        "Monocyte (CD14)",
+        "Monocyte (CD16)",
+        "Thymic CD4 T cell (II)",
+        "Thymic CD8 T cell",
+        "CD4 Tcm (Th0)",
+        "CD4 Tnaive",
+        "NKT cell (periphery)",
+        "CD4 Tcm (Tfh)",
+        "CD4 Tcm (Th2)",
+        "CD4 Tcm (Th17)",
+        "Naive Treg",
+        "Activated Treg",
+        "CD4 Tem (Th1/17)",
+        "CD8 Tem",
+        "CD8 Tnaive",
+        "DP T cell",
+        "aa CD8 T cell (II)",
+        "CD4 Tem (Th1)",
+        "CD8 Trm",
+        "CD8 Temra",
+        "CD4 Temra (Th1)",
+        "NK cell",
+        "Cycling DN/DP T cell",
+        "DN T cell",
+        "pDC",
+        "cDC1",
+        "cDC2",
+        "Plasmablast"
+    ],
+
+    "4_sp_batch":{
+        "human": "#F8D5E4",
+        "macaqueF": "#BAD65D",
+        "macaqueM": "#EE7D6B",
+        "mouse": "#930E14"
+        },
+
+    "4_sp_ct": {
+        "Human Reference": "#E0E0E0",
+        "CiliaryMuscle Cell": "#8fcdc2",
+        "Beam Cell": "#eec458",
+        "Schwann Cell": "#df789d",
+        "Corneal Epithelium Cell": "#9e9ac8",
+        "Macrophage Cell": "#969696",
+        "Uveal": "#ab4b21",
+        "Melanocyte": "#97ba22",
+        "JCT Cell": "#e6833c",
+        "NK/T Cell": "#ad494a",
+        "Pericyte": "#a55194",
+        "Fibroblast": "#9ecae1",
+        "Vascular Endothelium Cell": "#699fce",
+        "Pigmented Ciliary Epithelium Cell": "#20663a",
+        "Schlemm Canal Cell": "#322d63",
+        "B Cell": "#bdbdbd",
+        "Mast Cell": "#6b6ecf",
+        "Nonpigmented Ciliary Epithelium Cell": "#b5cf6b",
+        "SchwalbeLine Cell": "#e7ba52",
+        "Collector Channel Cell": "#8a4893",
+        "Pigmented Epithelium Cell": "#ce6dbd",
+        "Myoepithelium": "#c6dbef",
+        "Neuron Cell": "#fdd0a2"
+    }
+
+}
