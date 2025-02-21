@@ -4,7 +4,7 @@
 
 **UniMap** is a multi-functional tool that leverages expert-curated scRNA-seq datasets as references to integrate, annotate, and conduct interpretable analyses on unlabeled query data.
 
-Check out our manuscript in *PERIODICAL*:
+Check out our manuscript in *Advanced Science*:
 
 *NAME AND LINK*
 
