@@ -121,7 +121,7 @@ The reproduction code is provided below:
 
 ## 5 Development
 
-This framework is developed by Haitao Hu (22260236@zju.edu.cn)
+This framework is developed by Haitao Hu (huahuatii@zju.edu.cn)
 
 
 
