@@ -6,7 +6,7 @@
 
 Check out our manuscript in *Advanced Science*:
 
-*NAME AND LINK*
+*UniMap: Type-Level Integration Enhances Biological Preservation and Interpretability in Single-Cell Annotation*
 
 <img src="analysis/case1/fig1_purple_low_dpi.png" alt="Description of image" width="50%">
 
